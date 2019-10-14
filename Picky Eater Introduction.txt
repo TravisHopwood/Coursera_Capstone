@@ -1,0 +1,19 @@
+Picky Eaters in College - Where Can I Eat?
+
+Introduction
+
+While many students may know where they want to attend college at a 
+younger age because they always liked the mascot, or family members 
+are alumni, others have to evaluate schools for many reason to 
+figure out which one would be the best fit.  For many students, this 
+is their first time moving away from home, and it is a very stressful
+process.  Working with college data, academic and financial statistics
+for the school are readily available to help make this choice.  
+Unfortunately, picky eating is becoming more common in today's college
+students, and this is another factor that adds to the stress level of 
+students.  For some students, dorm food may not cut it so it is 
+important to knowing what other options may be available around a college
+campus.  For some students, having plenty of food options available may 
+be as important to them as what majors a school offers. For this project,
+I plan to provide analysis of school to see which have the most food 
+options near campus.
