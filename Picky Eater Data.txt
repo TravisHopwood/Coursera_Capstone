@@ -1,0 +1,25 @@
+Picky Eaters in College - Where Can I Eat?
+
+Data
+
+To provide a limited scope, analysis will only be provided
+for schools in the Big Ten conference.
+
+Big Ten Colleges,Latitude,Longitude
+University of Nebraska,40.8202,-96.7005
+University of Iowa,41.6627,-91.5549
+Rutgers University,40.5008,-74.4474
+Indiana University,39.1754,-86.5126
+Michigan State University,42.7018,-84.4822
+University of Maryland,38.9869,-76.9426
+The Ohio State University,40.0068,-83.0306
+Penn State University,40.7982,-77.8599
+University of Minnesota,44.9740,-93.2277
+Purdue University,40.4237,-86.9212
+University of Illinois at Urbana-Champaign,40.1020,-88.2272
+University of Wisconsin,43.0766,-89.4125
+University of Michigan - Ann Arbor,42.2780,-83.7382
+Northwestern University,42.0560,-87.6752
+
+Based on the latitude and longitudes of the schools, data of
+food venues within a defined radius will be pulled from Foursquare.
